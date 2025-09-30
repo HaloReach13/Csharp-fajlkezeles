@@ -1,0 +1,9 @@
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\bin\Debug\C#fajlkezeles.exe.config
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\bin\Debug\C#fajlkezeles.exe
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\bin\Debug\C#fajlkezeles.pdb
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\obj\Debug\C#fajlkezeles.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\obj\Debug\C#fajlkezeles.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\obj\Debug\C#fajlkezeles.exe
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\obj\Debug\C#fajlkezeles.pdb
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\obj\Debug\C#fajlkezeles.exe.config
+C:\Users\Felhasználó\source\repos\C#fajlkezeles\C#fajlkezeles\bin\Debug\records.txt
